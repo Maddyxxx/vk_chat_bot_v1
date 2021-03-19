@@ -1,5 +1,5 @@
 GROUP_ID = 199325514
-TOKEN = 'ebcce97774b0b137ce1dcf7480ed26caa381eb5dabc07d34f3058283f98241c7d37288943e3bc38cd50c0'
+TOKEN = '' # use your own tolen from vk.com
 
 INTENTS = [
     {
